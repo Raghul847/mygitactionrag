@@ -1,5 +1,5 @@
 def main():
-  print('hello world')
+    print('hello world')
 def p():
-  print('hi')
+    print('hi')
 print(main())
